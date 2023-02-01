@@ -28,5 +28,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "babel.config.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopards4life/react-hooks-event-handling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leopards4life/react-hooks-event-handling/issues"
+  },
+  "homepage": "https://github.com/leopards4life/react-hooks-event-handling#readme"
 }
